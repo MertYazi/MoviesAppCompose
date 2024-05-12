@@ -8,7 +8,7 @@ Project is written in Kotlin.💯
 
 | Popular | Upcoming | Details |
 |------|------|------|
-| <img src="screenshots/popular_dark_portrait.jpg" alt="" width="250"> | <img src="screenshots/upcoming_dark_portrait.jpg" alt="" width="250"> | <img src="screenshots/details_dark_portrait.jpg" alt="" width="250"> |
+| <img src="screenshots/popular_dark_portreit.jpg" alt="" width="250"> | <img src="screenshots/upcoming_dark_portreit.jpg" alt="" width="250"> | <img src="screenshots/details_dark_portreit.jpg" alt="" width="250"> |
 &nbsp;<br>
 
 **It's recommended to use in dark mode but light mode alternative also presented.
