@@ -1,4 +1,4 @@
-# MoviesAppCompose
+# MoviesAppCompose [![Codacy Badge](https://app.codacy.com/project/badge/Grade/7355278c1a264faa97ad53fc793c83d8)](https://app.codacy.com/gh/MertYazi/MoviesAppCompose/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 
 It's an offline first app to display popular movies of all time and track down the upcoming movies.<br>
 &nbsp;<br>
@@ -6,9 +6,9 @@ It's an offline first app to display popular movies of all time and track down t
 Project is written in Kotlin.💯
 &nbsp;<br>
 
-| Popular                                                               | Upcoming                                                               | Details                                                               |
-|-----------------------------------------------------------------------|------------------------------------------------------------------------|-----------------------------------------------------------------------|
-| <img src="screenshots/popular_dark_portrait.jpeg" alt="" width="250"> | <img src="screenshots/upcoming_dark_portrait.jpeg" alt="" width="250"> | <img src="screenshots/details_dark_portrait.jpeg" alt="" width="250"> |
+| Popular | Upcoming | Details |
+|------|------|------|
+| <img src="screenshots/popular_dark_portrait.jpg" alt="" width="250"> | <img src="screenshots/upcoming_dark_portrait.jpg" alt="" width="250"> | <img src="screenshots/details_dark_portrait.jpg" alt="" width="250"> |
 &nbsp;<br>
 
 **It's recommended to use in dark mode but light mode alternative also presented.
