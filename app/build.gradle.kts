@@ -3,6 +3,7 @@ plugins {
     alias(libs.plugins.jetbrains.kotlin.android)
     id("com.google.dagger.hilt.android")
     id("kotlin-kapt")
+    id("org.sonarqube")
 }
 
 android {
@@ -48,6 +49,11 @@ android {
         resources {
             excludes += "/META-INF/{AL2.0,LGPL2.1}"
         }
+    }
+    lint {
+        quiet = true
+        abortOnError = false
+        warningsAsErrors = true
     }
 }
 

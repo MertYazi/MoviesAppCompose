@@ -6,9 +6,9 @@ It's an offline first app to display popular movies of all time and track down t
 Project is written in Kotlin.💯
 &nbsp;<br>
 
-| Popular | Upcoming | Details |
-|------|------|------|
-| <img src="screenshots/popular_dark_portrait.jpg" alt="" width="250"> | <img src="screenshots/upcoming_dark_portrait.jpg" alt="" width="250"> | <img src="screenshots/details_dark_portrait.jpg" alt="" width="250"> |
+| Popular                                                               | Upcoming                                                               | Details                                                               |
+|-----------------------------------------------------------------------|------------------------------------------------------------------------|-----------------------------------------------------------------------|
+| <img src="screenshots/popular_dark_portrait.jpeg" alt="" width="250"> | <img src="screenshots/upcoming_dark_portrait.jpeg" alt="" width="250"> | <img src="screenshots/details_dark_portrait.jpeg" alt="" width="250"> |
 &nbsp;<br>
 
 **It's recommended to use in dark mode but light mode alternative also presented.

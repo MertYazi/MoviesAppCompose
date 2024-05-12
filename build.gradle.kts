@@ -3,6 +3,7 @@ buildscript {
     dependencies {
         classpath(libs.google.services)
         classpath(libs.sonarqube.gradle.plugin)
+        classpath(libs.sonarqube.gradle.plugin)
     }
 }
 plugins {
